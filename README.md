@@ -326,6 +326,7 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [GPUStack](https://github.com/gpustack/gpustack) - An open-source GPU cluster manager for running LLMs
 
 ## LLM Applications
+- [General Bots](https://github.com/GeneralBots) - General Bots LLM Orchestrator platform for buiding omnichannel bots.
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The PyTorch library for LLM applications.
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 - [YiVal](https://github.com/YiVal/YiVal) — Evaluate and Evolve: YiVal is an open-source GenAI-Ops tool for tuning and evaluating prompts, configurations, and model parameters using customizable datasets, evaluation methods, and improvement strategies.
